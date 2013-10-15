@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: ispdb
+Version: 0.3
+Summary: Interface to Mozilla ISP database
+Home-page: UNKNOWN
+Author: sprt
+Author-email: hellosprt@gmail.com
+License: MIT License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Communications :: Email :: Email Clients (MUA)
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: Implementation :: PyPy
